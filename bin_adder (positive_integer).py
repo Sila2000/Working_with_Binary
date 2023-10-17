@@ -1,5 +1,5 @@
 #author Sila2000
-#Binary number pertained only to positive integer
+#binary number pertained only to positive integer
 def carry_bit_add(bit1, bit2):
     if bit1 == bit2 == '0':
         return '0'
