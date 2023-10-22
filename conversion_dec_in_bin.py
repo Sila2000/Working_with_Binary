@@ -1,3 +1,4 @@
+#author Sila2000
 # Convert decimal into binary
 
 import math
